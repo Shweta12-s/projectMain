@@ -9,12 +9,11 @@ Features:-
 6. Responsive design
 
 
-   Technologies Used:-
+Technologies Used:-
 Front-end:
 1.EJS
 2.CSS
 3.Bootstrap (optional)
-
 
 
 
