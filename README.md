@@ -7,6 +7,8 @@ Features:-
 4. Leave and manage reviews for campgrounds
 5. Flash messages for user feedback
 6. Responsive design
+
+
    Technologies Used:-
 Front-end:
 1.EJS
