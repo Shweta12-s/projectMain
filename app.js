@@ -8,18 +8,11 @@ if(process.env.NODE_ENV !== "production"){
 
 
 const express = require('express');
-const cors = require('cors');
+
 const app = express();
-app.use(cors(
-    {
-        origin: ["https://deploy-mern-1whq.vercel.app"],
-        methods: ["POST", "GET"],
-        credentials: true
-    }
-    ));
+
 const path = require('path');
 
-mongoose.connect('mongodb+srv://<username>:<shweta@1>@cluster0.3z07bqf.mongodb.net/shweta?retryWrites=true&w=majority&appName=Cluster0
 
 const mongoose = require('mongoose');
 const ejsMate = require('ejs-mate');
